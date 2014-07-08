@@ -1,6 +1,6 @@
-name: Solar Theme
+name: Sean's Blog
 url: http://example.org
-description: A stylish blog using the Solarized color palette
+description: A halfway house is a destination for no-one..
 
 permalink: /:year/:month/:day/:title/
 paginate: 10
