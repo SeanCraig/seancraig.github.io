@@ -9,10 +9,10 @@ Here is the list of sessions I attended at SPA 2014. If anyone is interested in 
 
 Monday
 ------
-*[Communicating in the Face of Conflict -Communication Dojo](http://www.spaconference.org/spa2014/sessions/session591.html)
-*[Software Apprenticeships : This Time It's Personal!](http://www.spaconference.org/spa2014/sessions/session553.html)
-*[Dreaming - how business intent fuels your Agile initiatives](http://www.spaconference.org/spa2014/sessions/session577.html)
-*[When will we ever learn?](http://www.spaconference.org/spa2014/sessions/session562.html)
+* [Communicating in the Face of Conflict -Communication Dojo](http://www.spaconference.org/spa2014/sessions/session591.html)
+* [Software Apprenticeships : This Time It's Personal!](http://www.spaconference.org/spa2014/sessions/session553.html)
+* [Dreaming - how business intent fuels your Agile initiatives](http://www.spaconference.org/spa2014/sessions/session577.html)
+* [When will we ever learn?](http://www.spaconference.org/spa2014/sessions/session562.html)
 
 Tuesday
 -------
